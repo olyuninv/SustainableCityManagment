@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SustainableCityManagment", "SustainableCityManagment\SustainableCityManagment.njsproj", "{906861C9-33A2-4B5E-B2B0-CE940BACDA48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906861C9-33A2-4B5E-B2B0-CE940BACDA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906861C9-33A2-4B5E-B2B0-CE940BACDA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906861C9-33A2-4B5E-B2B0-CE940BACDA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906861C9-33A2-4B5E-B2B0-CE940BACDA48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF667BB0-CEFD-4A00-AAC0-247571BEA9CA}
+	EndGlobalSection
+EndGlobal
